@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafsa Mehmood</h1>
-<h3 align="center">A passionate flutter developer from Pakistan</h3>
+<h3 align="center">I'm a passionate Flutter Dev with a knack for developing dynamic and responsive mobile applications. With experience in full stack development, I thrive on creating seamless user experiences and robust backend solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsa191097&label=Profile%20views&color=0e75b6&style=flat" alt="hafsa191097" /> </p>
 
@@ -16,6 +16,7 @@
 - 💬 Ask me about **Flutter, Stacked, Firebase and GCS**
 
 - 📫 How to reach me **hafsaayyhere@gmail.com**
+- <img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 📄 Know about my experiences on linkedin [https://www.linkedin.com/in/hafsa-mehmood-191097bscs/recent-activity/all/](https://www.linkedin.com/in/hafsa-mehmood-191097bscs/recent-activity/all/)
 
